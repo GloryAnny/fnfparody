@@ -1,0 +1,31 @@
+*{ margin: 0px; padding: 0px;
+}
+
+body{
+    background-color: #000;
+}
+.bg-playgame{
+    display: block;
+    height: 100%;
+    width: 100%;
+
+}
+.escena{
+    display: block;
+    position: absolute;
+    z-index: 0;
+}
+.mario{
+    display: block;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    z-index: 0;
+}
+.rap{
+    display: block;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    z-index: 0;
+}
